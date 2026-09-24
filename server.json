@@ -1,16 +1,16 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.geekmarine/mcp-defi-router",
-  "description": "Autonomous Web3 router for DEX liquidity depth, EVM contract security, and cross-chain bridges.",
+  "name": "io.github.geekmarine/mcp-domain-auditor",
+  "description": "DNS resolution, HTTP security headers, and SPF/DMARC email hygiene audits.",
   "version": "1.0.0",
   "repository": {
-    "url": "https://github.com/geekmarine/mcp-defi-router",
+    "url": "https://github.com/geekmarine/mcp-domain-auditor",
     "source": "github"
   },
   "remotes": [
     {
       "type": "streamable-http",
-      "url": "https://mcp-defi.datasnag.com/mcp"
+      "url": "https://mcp-domain-auditor.stubby76.workers.dev/mcp"
     }
   ]
 }
