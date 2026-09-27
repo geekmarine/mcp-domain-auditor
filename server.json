@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.geekmarine/mcp-domain-auditor",
   "description": "DNS resolution, HTTP security headers, and SPF/DMARC email hygiene audits.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "url": "https://github.com/geekmarine/mcp-domain-auditor",
     "source": "github"
